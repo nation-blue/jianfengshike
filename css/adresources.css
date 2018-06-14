@@ -1,0 +1,40 @@
+.ad_content{
+    padding:40px 0 10px 0;
+    color:#72767E;
+}
+.ad_content .ad_title h1{
+    font-size:30px;
+    text-align: center;
+    font-family: 'Rouge Script', cursive;
+}
+.ad_content .ad_title h1 span{
+    color:#0E79D8;
+}
+.ad_content .ad_title p{
+    text-align: center;
+    margin:10px 0;
+}
+.ad_content .ad_bottom{
+    margin-top:40px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.ad_content .ad_bottom .ad_list{
+    width:390px;
+    height:410px;
+    background:#F7F7F7;
+    margin-bottom:10px;
+    box-sizing: border-box;
+    padding:30px 40px 0 40px;
+}
+.ad_content .ad_bottom .ad_list h1{
+    font-weight: normal;
+    margin:15px 0 15px 0;
+    color:#313131;
+}
+.ad_content .ad_bottom .ad_list p{
+    padding:0 5px;
+    line-height:30px;
+    color:#323232;
+}
